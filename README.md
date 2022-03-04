@@ -6,6 +6,7 @@
 ██║░░██║███████╗██║░░██║██████╔╝██║░╚═╝░██║███████╗
 ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝╚══════╝
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6BF1SS)
 # dittodance
 a html just for fun ;)
 in the index.html file go to lines 14 and 15, replace the link with the link of the song you want to put
